@@ -1,3 +1,3 @@
-## Welcome to my website
+## Welcome!
 
 The site is under construction.
